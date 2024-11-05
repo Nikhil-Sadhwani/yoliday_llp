@@ -23,9 +23,12 @@ export default function Portfolio() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get(`http://localhost:3000/data`, {
-          params: { type: activeTab },
-        });
+        const response = await axios.get(
+          `https://yoliday-llp-backend.vercel.app/data`,
+          {
+            params: { type: activeTab },
+          }
+        );
         setPortfolioData(response.data);
       } catch (error) {
         console.error("Error fetching portfolio data:", error);

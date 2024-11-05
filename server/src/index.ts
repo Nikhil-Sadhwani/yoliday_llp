@@ -7,9 +7,22 @@ const app = express();
 const PORT = 3000;
 
 // Enable CORS for your frontend URL
+const allowedOrigins = [
+  "http://localhost:3001",
+  "https://yoliday-llp-frontend.vercel.app",
+];
+
 app.use(
   cors({
-    origin: "http://localhost:3001",
+    origin: (origin, callback) => {
+      // Allow requests with no origin (for example, mobile apps or curl requests)
+      if (!origin) return callback(null, true);
+      if (allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        callback(new Error("Not allowed by CORS"));
+      }
+    },
   })
 );
 
