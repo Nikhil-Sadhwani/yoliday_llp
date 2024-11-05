@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Kemampuan Merangkum Tulisan",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae necessitatibus quibusdam ipsum, facilis deleniti eum accusantium ad corporis corrupti inventore repellat, optio eveniet nisi commodi odit soluta tempora doloremque sint!",
+    "language": "BAHASA SUNDA",
+    "author": "Al-Baidi Samaan",
+    "imageUrl": "/christin-hume-mfB1B1s4sMc-unsplash.jpg",
+    "type": "Project"
+  },
+  {
+    "id": 2,
+    "title": "Kemampuan Merangkum Tulisan",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae necessitatibus quibusdam ipsum, facilis deleniti eum accusantium ad corporis corrupti inventore repellat, optio eveniet nisi commodi odit soluta tempora doloremque sint!",
+    "language": "BAHASA SUNDA",
+    "author": "Al-Baidi Samaan",
+    "imageUrl": "/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg",
+    "type": "Project"
+  },
+  {
+    "id": 3,
+    "title": "Kemampuan Merangkum Tulisan",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae necessitatibus quibusdam ipsum, facilis deleniti eum accusantium ad corporis corrupti inventore repellat, optio eveniet nisi commodi odit soluta tempora doloremque sint!",
+    "language": "BAHASA SUNDA",
+    "author": "Al-Baidi Samaan",
+    "imageUrl": "/christin-hume-mfB1B1s4sMc-unsplash.jpg",
+    "type": "Saved"
+  },
+  {
+    "id": 4,
+    "title": "Kemampuan Merangkum Tulisan",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae necessitatibus quibusdam ipsum, facilis deleniti eum accusantium ad corporis corrupti inventore repellat, optio eveniet nisi commodi odit soluta tempora doloremque sint!",
+    "language": "BAHASA SUNDA",
+    "author": "Al-Baidi Samaan",
+    "imageUrl": "/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg",
+    "type": "Saved"
+  },
+  {
+    "id": 5,
+    "title": "Kemampuan Merangkum Tulisan",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae necessitatibus quibusdam ipsum, facilis deleniti eum accusantium ad corporis corrupti inventore repellat, optio eveniet nisi commodi odit soluta tempora doloremque sint!",
+    "language": "BAHASA SUNDA",
+    "author": "Al-Baidi Samaan",
+    "imageUrl": "/christin-hume-mfB1B1s4sMc-unsplash.jpg",
+    "type": "Shared"
+  },
+  {
+    "id": 6,
+    "title": "Kemampuan Merangkum Tulisan",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae necessitatibus quibusdam ipsum, facilis deleniti eum accusantium ad corporis corrupti inventore repellat, optio eveniet nisi commodi odit soluta tempora doloremque sint!",
+    "language": "BAHASA SUNDA",
+    "author": "Al-Baidi Samaan",
+    "imageUrl": "/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg",
+    "type": "Achievement"
+  },
+  {
+    "id": 7,
+    "title": "Kemampuan Merangkum Tulisan",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae necessitatibus quibusdam ipsum, facilis deleniti eum accusantium ad corporis corrupti inventore repellat, optio eveniet nisi commodi odit soluta tempora doloremque sint!",
+    "language": "BAHASA SUNDA",
+    "author": "Al-Baidi Samaan",
+    "imageUrl": "/christin-hume-mfB1B1s4sMc-unsplash.jpg",
+    "type": "Achievement"
+  },
+  {
+    "id": 8,
+    "title": "Kemampuan Merangkum Tulisan",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae necessitatibus quibusdam ipsum, facilis deleniti eum accusantium ad corporis corrupti inventore repellat, optio eveniet nisi commodi odit soluta tempora doloremque sint!",
+    "language": "BAHASA SUNDA",
+    "author": "Al-Baidi Samaan",
+    "imageUrl": "/the-connected-narrative-aEv8ednzJ2E-unsplash.jpg",
+    "type": "Achievement"
+  },
+  {
+    "id": 9,
+    "title": "Kemampuan Merangkum Tulisan",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae necessitatibus quibusdam ipsum, facilis deleniti eum accusantium ad corporis corrupti inventore repellat, optio eveniet nisi commodi odit soluta tempora doloremque sint!",
+    "language": "BAHASA SUNDA",
+    "author": "Al-Baidi Samaan",
+    "imageUrl": "/the-connected-narrative-aEv8ednzJ2E-unsplash.jpg",
+    "type": "Saved"
+  }
+]
