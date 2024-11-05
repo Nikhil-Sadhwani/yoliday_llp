@@ -11,7 +11,7 @@ const Navbar_With_Search_And_Filter = (props: {
       {/* Tabs and Search/Filter Section */}
       <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center lg:space-x-6">
         {/* Tabs Section */}
-        <div className="flex flex-wrap border-b lg:border-none pb-2 lg:pb-0">
+        <div className="flex flex-wrap border-b lg:border-none pb-2 lg:pb-0 text-[0.75rem]">
           {["Project", "Saved", "Shared", "Achievement"].map((tab) => (
             <button
               key={tab}

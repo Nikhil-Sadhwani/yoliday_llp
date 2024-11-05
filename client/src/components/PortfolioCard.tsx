@@ -21,7 +21,7 @@ const PortfolioCard: React.FC<PortfolioCardProps> = ({
     <img
       src={imageUrl}
       alt={title}
-      className="w-[16rem] h-[10rem] rounded-l-lg"
+      className="w-[9rem] md:w-[16rem] md:h-[10rem] rounded-l-lg"
     />
 
     <div className="flex-1 p-3">
